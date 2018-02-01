@@ -1,0 +1,7 @@
+c:\users\asus\source\repos\katalog\katalog\obj\Debug\katalog.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\katalog\katalog\obj\Debug\katalog.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\katalog\katalog\bin\Debug\katalog.exe.config
+c:\users\asus\source\repos\katalog\katalog\bin\Debug\katalog.exe
+c:\users\asus\source\repos\katalog\katalog\bin\Debug\katalog.pdb
+c:\users\asus\source\repos\katalog\katalog\obj\Debug\katalog.exe
+c:\users\asus\source\repos\katalog\katalog\obj\Debug\katalog.pdb
